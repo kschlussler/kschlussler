@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @kschlussler
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
-<!---
-kschlussler/kschlussler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Kate, I have been working in the Health Analytics field for almost 10 years! I’m currently in the process of learning Python!
